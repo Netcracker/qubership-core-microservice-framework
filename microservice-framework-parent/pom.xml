@@ -14,7 +14,7 @@
         <jacoco.plugin.version>0.8.12</jacoco.plugin.version>
         <junit.version>4.13.2</junit.version>
         <spring.boot.version>3.3.4</spring.boot.version>
-        <mockito.version>5.14.2</mockito.version>
+        <mockito.version>5.18.0</mockito.version>
         <spring.security.version>6.4.1</spring.security.version>
         <spring.version>6.2.1</spring.version>
         <lombok.version>1.18.36</lombok.version>
