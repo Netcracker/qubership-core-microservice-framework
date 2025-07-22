@@ -23,7 +23,7 @@
         <spring.boot.version>3.4.7</spring.boot.version>
         <mockito.version>5.14.2</mockito.version>
         <spring.security.version>6.4.7</spring.security.version>
-        <spring.version>6.2.8</spring.version>
+        <spring.version>6.2.9</spring.version>
         <lombok.version>1.18.38</lombok.version>
         <jackson.version>2.18.4.1</jackson.version>
         <microservice.dependencies.version>11.1.0</microservice.dependencies.version>
