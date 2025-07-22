@@ -19,7 +19,7 @@
         <java.version>17</java.version>
         <maven.compiler.plugin.version>3.13.0</maven.compiler.plugin.version>
         <maven.pmd.plugin.version>3.7</maven.pmd.plugin.version>
-        <jacoco.plugin.version>0.8.12</jacoco.plugin.version>
+        <jacoco.plugin.version>0.8.13</jacoco.plugin.version>
         <spring.boot.version>3.4.7</spring.boot.version>
         <mockito.version>5.14.2</mockito.version>
         <spring.security.version>6.4.7</spring.security.version>
