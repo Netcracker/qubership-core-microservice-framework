@@ -22,7 +22,7 @@
         <jacoco.plugin.version>0.8.12</jacoco.plugin.version>
         <spring.boot.version>3.4.7</spring.boot.version>
         <mockito.version>5.14.2</mockito.version>
-        <spring.security.version>6.4.7</spring.security.version>
+        <spring.security.version>6.4.8</spring.security.version>
         <spring.version>6.2.8</spring.version>
         <lombok.version>1.18.38</lombok.version>
         <jackson.version>2.18.4.1</jackson.version>
