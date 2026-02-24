@@ -4,7 +4,6 @@ import jakarta.servlet.Filter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.web.server.servlet.context.AnnotationConfigServletWebServerApplicationContext;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.boot.web.servlet.ServletContextInitializerBeans;
 import org.springframework.context.ConfigurableApplicationContext;
@@ -18,8 +17,7 @@ import java.util.Collection;
 /**
  * Application context which remove unnecessary filters from application filter chain
  */
-public class MicroserviceApplicationContext extends
-        AnnotationConfigServletWebServerApplicationContext {
+public class MicroserviceApplicationContext {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(MicroserviceApplicationContext.class);
 
