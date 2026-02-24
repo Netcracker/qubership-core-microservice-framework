@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>microservice-framework-report-aggregate</artifactId>
-    <version>7.4.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
