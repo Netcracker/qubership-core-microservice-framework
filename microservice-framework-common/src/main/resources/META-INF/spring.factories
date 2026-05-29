@@ -1,3 +1,0 @@
-# Bootstrap Configuration
-org.springframework.context.ApplicationListener=\
-com.netcracker.cloud.microserviceframework.application.DisableSpringCloudHealthIndicators
